@@ -1,0 +1,17 @@
+{
+  "name": "myserver",
+  "version": "1.0.13",
+  "description": "Public Nodejs server to my apps.",
+  "main": "app.js",
+  "scripts": {
+    "test": "node app"
+  },
+  "author": "Selimhan BEK",
+  "license": "ISC",
+  "dependencies": {
+    "body-parser": "^1.19.2",
+    "cookie-parser": "^1.4.6",
+    "express": "^4.17.3",
+    "morgan": "^1.10.0"
+  }
+}
